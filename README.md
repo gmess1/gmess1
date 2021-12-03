@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmess1
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning FLUSK
+- 🌱 I’m currently learning FLASK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me g63gmess@gmail.com
 
